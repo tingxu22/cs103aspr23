@@ -1,5 +1,7 @@
 .DS_Store
-pa*
+*~
+pa??
+package-lock*
 my*
 node_modules
 secret*
@@ -9,3 +11,5 @@ __pycache__
 .ipynb_checkpoints
 .pytest_cache
 images
+startup.sh
+grading
